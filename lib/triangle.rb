@@ -19,6 +19,7 @@ class Triangle
     end
   end
   
+  
   def kind
     if valid?
       if @length1 == @length2 && @length1 == @length3
